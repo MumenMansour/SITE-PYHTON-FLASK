@@ -1,0 +1,27 @@
+
+
+
+
+a{
+    text-decoration: none;
+    color: yellowgreen,
+
+
+}
+
+nav a:hover{
+    background-color: bisque;
+    color: #fff;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(248, 246, 246);
+}
+
+.imgquadrada{
+    width: 100px;
+    
+}
+
